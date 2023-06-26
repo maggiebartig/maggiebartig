@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @maggiebartig
+- 👀 I’m interested in harnessing the skills I am learning through uni to excel in real-life applications of data engineering and data science
+- 🌱 I’m currently growing my skills primarily in Python with a little bit of R 
+- 📫 How to reach me: mgbartig@gmail.com
